@@ -1,192 +1,132 @@
-<!-- ======================= HEADER ======================= -->
+# 👋 Hi, I'm Uma Sankari
 
-<h1 align="center">👋 Hi, I'm Uma Sankari</h1>
+### 💻 Computer Science Engineering Student | Full Stack Developer
 
-<h3 align="center">
-💻 Computer Science Engineering Student | Full Stack Developer
-</h3>
+I'm a passionate Computer Science Engineering student interested in
+Full Stack Development and building user-friendly, real-world web applications.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Aspiring+Full+Stack+Developer;Java+%7C+React+%7C+JavaScript+Developer;Always+Learning+%7C+Always+Building" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Umasankari-k&label=Profile%20Views&color=8B5CF6&style=flat" />
-</p>
+I enjoy learning new technologies, solving problems, and continuously
+improving my development skills.
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-🎓 Computer Science Engineering student passionate about software development.
-
-💻 Interested in building user-friendly and responsive web applications.
-
-🌱 Currently learning **React and Full Stack Development**.
-
-☕ Comfortable with **Java, JavaScript, SQL and Web Technologies**.
-
-☁️ Interested in **Cloud Technologies and modern software development**.
-
-🚀 I enjoy learning new technologies and turning ideas into practical projects.
+- 🎓 B.E. Computer Science Engineering Student
+- 💻 Interested in Full Stack Development
+- 🌱 Currently learning React and modern web development
+- ☁️ Interested in Cloud Technologies
+- 🧩 Love building real-world projects
+- 🎯 Looking for opportunities to grow as a Software Developer
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### 👨‍💻 Programming Languages
+- Java
+- C
+- SQL
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,js" />
-</p>
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+### 🌐 Web Development
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
 
 ### 🗄️ Database
+- MySQL
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### 🔧 Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Projects
 
-### 📄 Documind – Expiry Reminder System
+### 📄 Digital Document Expiry Reminder System
 
-A web-based application designed to help users manage important documents and remember their expiry dates.
+A web-based application designed to help users manage important
+documents and remember their expiry dates.
+
+**Technologies:**
+`Java` `MySQL` `OOPS`
 
 **Key Features:**
-- 🔐 User registration and login
-- 📄 Document management
-- 📅 Expiry date tracking
-- 🔔 Reminder and alert system
-- 📊 Dashboard for document status
-
-**Tech Stack:** Java • MySQL • HTML • CSS • JavaScript • React
+- Manage important documents
+- Track document expiry dates
+- Automated expiry reminders
+- Helps reduce missed renewals
 
 ---
 
-### 🤖 AI-Based Placement Readiness Analyzer
+### 🤖 Placement Readiness Analyzer
 
-An application designed to help students understand their placement readiness by identifying strengths and areas that need improvement.
+An AI-based application designed to analyze students' placement
+readiness and provide personalized suggestions.
 
-**Focus Areas:**
-- 📊 Placement readiness analysis
-- 💡 Strength identification
-- 📈 Improvement suggestions
-- 🎯 Career preparation support
+**Technologies:**
+`HTML` `CSS` `JavaScript` `React` `Node.js`
 
----
-
-## 🏆 Certifications & Experience
-
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🏅 **NPTEL Silver Certificate**
-- 💻 **Full Stack Developer Intern – Cube AI Solutions**
-- 📊 **Data Analyst Intern – Arpina Solutions**
+**Key Features:**
+- Analyze student skills
+- Evaluate aptitude performance
+- Analyze mock test performance
+- Provide personalized suggestions
+- Track placement readiness
 
 ---
 
 ## 💼 Internship Experience
 
-### 💻 Full Stack Developer Intern
-**Cube AI Solutions**
+### Full Stack Developer Intern
+**Cube AI Solutions — June 2025**
 
-Worked on full-stack development concepts and gained practical experience in building web applications.
+- Assisted in developing full-stack web applications
+- Worked on debugging and testing
+- Gained experience in application deployment
 
-### 📊 Data Analyst Intern
-**Arpina Solutions**
+### Data Analyst Intern
+**Arpina Solutions — July 2024**
 
-Worked with **Excel, SQL datasets and Power BI dashboards** to analyze data and identify trends.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umasankari-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umasankari-k&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+- Analyzed datasets using Excel and SQL
+- Created interactive dashboards
+- Worked with Power BI for data visualization
 
 ---
 
-## 🔥 GitHub Streak
+## 🏆 Certifications
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Umasankari-k&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umasankari-k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+- ☁️ AWS Certified Cloud Practitioner
+- 📜 NPTEL Silver Certificate
+- 🌐 IoT Certification
+- 💻 Cloud Computing Certification
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umasankari-k&theme=tokyo-night&hide_border=true" />
-</p>
+![Uma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umasankari-k&show_icons=true&theme=tokyonight)
 
----
-
-## 💡 My Coding Philosophy
-
-> **Learn. Build. Improve. Repeat. 🚀**
-
-I believe consistent learning and practical implementation are the keys to becoming a better developer.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umasankari-k&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Current Goals
+## 🔗 Connect With Me
 
-- 🌱 Improve my React skills
-- 💻 Build more Full Stack projects
-- ☁️ Strengthen my Cloud knowledge
-- 🧠 Improve problem-solving and coding skills
-- 🚀 Prepare for software development opportunities
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/uma-70751133b)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Umasankari-k)
 
 ---
 
-## 📚 Currently Learning
+## 💡 Quote
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs" />
-</p>
-
-**React • JavaScript • Full Stack Development**
+> "Keep learning, keep building, and keep growing."
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Umasankari-k">
-    <img src="https://img.shields.io/badge/GitHub-Umasankari--k-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## ✨ A Little More About Me
-
-```text
-💻 Developer     → Always building
-📚 Learner       → Always exploring
-🧠 Problem Solver → Always improving
-🚀 Goal          → Become a skilled Full Stack Developer
+⭐ **Thanks for visiting my profile!**
