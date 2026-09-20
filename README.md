@@ -105,24 +105,6 @@ readiness and provide personalized suggestions.
 - 🌐 IoT Certification
 - 💻 Cloud Computing Certification
 
----
-
-## 📊 GitHub Stats
-
-![Uma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umasankari-k&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umasankari-k&layout=compact&theme=tokyonight)
-
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/uma-70751133b)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Umasankari-k)
-
----
-
 ## 💡 Quote
 
 > "Keep learning, keep building, and keep growing."
